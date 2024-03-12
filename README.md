@@ -1,6 +1,5 @@
 ### Hi there! 👋 
 
-<!--
 My name is Natalie Kerr ✨ (she/her) ✨. I am a quantitative biologist and data scientist who specializes in various applications of statistics and demographic modeling in the field of ecology (and beyond!).
 
 Here are some ideas to get you started:
@@ -11,4 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything statistics-related or my cat, Lola!
 - 📫 How to reach me: nataliezoekerr@gmail.com
 - ⚡ Fun fact: I love to dance.
--->
+
