@@ -1,6 +1,6 @@
 ### Hi there! 👋 
 
-My name is Natalie Kerr ✨ (she/her) ✨. I am a quantitative biologist and data scientist who specializes in various applications of statistics and demographic modeling in the field of ecology (and beyond!).
+My name is Natalie Kerr ✨ (she/her) ✨. I am a quantitative biologist and data scientist at {Duke University}(https://scholars.duke.edu/person/natalie.kerr) who specializes in various applications of statistics and demographic modeling in the field of ecology (and beyond!).
 
 Here are some ideas to get you started:
 
